@@ -1,3 +1,5 @@
+[ ![Codeship Status for justinrolston/ticketee](https://www.codeship.io/projects/d14396c0-cd41-0131-9d51-22b6638c96cc/status)](https://www.codeship.io/projects/22767)
+
 == README
 
 This README would normally document whatever steps are necessary to get the
